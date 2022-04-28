@@ -167,6 +167,10 @@ Machine Learning
 
 "Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
 
+#### Mathematics And R Programming for Machine Learning From The Ground Up [[Perlego]](https://www.perlego.com/book/1828866/mathematics-and-r-programming-for-machine-learning-from-the-ground-up-pdf) 
+<img src="https://www.perlego.com/_next/image?url=https%3A%2F%2Fwww.perlego.com%2Fbooks%2FRM_Books%2Ftaylor_francis_lm_feonmi%2F9781000196993_500_750.jpg&w=1440&q=75" width="200px"/>
+Based on the author's experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.
+
 R Development
 ---
 
